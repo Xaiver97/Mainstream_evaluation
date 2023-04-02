@@ -104,7 +104,7 @@ Recommendation results will be stored in `mod_data/{dataset}/rec_res`.
 
 Run `analysis/analysis.ipynb` to analyze the evaluation results of different approaches.
 
-![ML1M](/home/xaiver/Downloads/mainstream_evaluation/analysis/Profile&MS_score/ML1M.png)
+![ML1M](./analysis/Profile&MS_score/ML1M.png)
 
 Results for the relationship between profile size and the mainstream score will be stored in `Profile&MS_score`,  Results for the relationship between recommendation utility and the mainstream score will be stored in `Utility&MS_score`.
 
